@@ -16,7 +16,6 @@ public class TestAnimal {
  System.out.println(" Second animal has " + bear.getCuloare() + " color");
  System.out.println();
 
-		
  System.out.println(" Third animal is a " + wolf.getTipAnimal() + ", " + wolf.getCuloare() + " color ," + " and "+ wolf.getVarsta() + " years old.");
 
 	wolf.setTipAnimal("wild");
