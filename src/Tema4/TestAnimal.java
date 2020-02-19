@@ -19,7 +19,7 @@ public class TestAnimal {
 		
  System.out.println(" Third animal is a " + wolf.getTipAnimal() + ", " + wolf.getCuloare() + " color ," + " and "+ wolf.getVarsta() + " years old.");
 
-		wolf.setTipAnimal("wild");
+	wolf.setTipAnimal("wild");
         wolf.setCuloare("black");
         wolf.setVarsta(3);
 
