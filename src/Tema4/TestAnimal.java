@@ -10,7 +10,7 @@ public class TestAnimal {
  System.out.println(" First animal is a " + lion.getTipAnimal() + ", " + lion.getCuloare() + " color ," + " and "+ lion.getVarsta() + " years old.");
  System.out.println();
 
-	    bear.setCuloare("brown");
+	bear.setCuloare("brown");
 
  System.out.println(" Second animal is a " + bear.getTipAnimal());
  System.out.println(" Second animal has " + bear.getCuloare() + " color");
