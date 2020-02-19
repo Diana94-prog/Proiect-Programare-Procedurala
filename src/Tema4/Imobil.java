@@ -9,33 +9,33 @@ public class Imobil {
 	public Imobil() {
 		
 	}
-  public Imobil(String tipVila, int nrEtaje, double pret) {
-    this.tipVila = tipVila;
-    this.nrEtaje = nrEtaje;
-    this.pret = pret;
+    public Imobil(String tipVila, int nrEtaje, double pret) {
+     this.tipVila = tipVila;
+     this.nrEtaje = nrEtaje;
+     this.pret = pret;
 
 	}
-  public Imobil(String tipVila, double pret) {
-    this.tipVila = tipVila;
-    this.pret = pret;
+   public Imobil(String tipVila, double pret) {
+     this.tipVila = tipVila;
+     this.pret = pret;
   }
-  public String getTipVila() {
-   return this.tipVila;
+   public String getTipVila() {
+     return this.tipVila;
 }
-  public void setTipVila(String tipVila) {
-   this.tipVila = tipVila;
+   public void setTipVila(String tipVila) {
+     this.tipVila = tipVila;
 }
-  public int getNrEtaje() {
-    return this.nrEtaje;
+   public int getNrEtaje() {
+     return this.nrEtaje;
 }
-  public void setNrEtaje(int nrEtaje) {
-    this.nrEtaje = nrEtaje;
+   public void setNrEtaje(int nrEtaje) {
+     this.nrEtaje = nrEtaje;
 }
-  public double getPret() {
-    return this.pret;
+   public double getPret() {
+     return this.pret;
 }
-  public void setPret(double pret) {
-    this.pret = pret;
+   public void setPret(double pret) {
+     this.pret = pret;
 
 }
 

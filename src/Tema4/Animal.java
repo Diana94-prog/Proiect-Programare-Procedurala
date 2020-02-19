@@ -2,7 +2,7 @@ package Tema4;
 
 public class Animal {
 
-	private String tipAnimal;
+ private String tipAnimal;
     private String culoare;
     private int varsta;
     
